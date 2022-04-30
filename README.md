@@ -1,2 +1,2 @@
-# Aula-Django
-Blog
+# Blog
+Implementação com Python Django
