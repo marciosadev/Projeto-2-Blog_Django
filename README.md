@@ -1,2 +1,2 @@
-# Projeto com Python Django
+# Blog
 Implementação com Python Django
